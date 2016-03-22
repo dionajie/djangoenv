@@ -1,4 +1,12 @@
 # djangoenv
-Learn Django Framework using virutal environment
+Learn Django Framework using virtual environment
 
-Tutorial : blog.dionajie.com
+###How to
+```sh
+pip install virtualenv
+pip install django
+
+```
+
+###Tutorial
+* http://blog.dionajie.com
